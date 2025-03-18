@@ -59,6 +59,8 @@ function dodajProsjek(niz) {
     console.log(noviNiz);
 }
 
+
+
 filtrirajStudente(studenti);
 najboljiStudent(studenti);
 prosjecanProsjek(studenti);
